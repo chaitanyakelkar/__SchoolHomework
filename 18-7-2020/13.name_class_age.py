@@ -1,0 +1,5 @@
+name = input("input name")
+class_var = int(input("input class"))
+age = int(input("input age"))
+print(f"{name} {class_var} {age}")
+print(name,"\n",class_var,"\n",age)

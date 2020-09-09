@@ -1,0 +1,5 @@
+p = int(input("enter principle amount:"))
+r = float(input("enter intrest rate amount:"))
+t = float(input("enter time amount:"))
+a = p*(1+r*t)
+print(f"total payable AMOUNT is {a}")
