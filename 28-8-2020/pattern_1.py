@@ -1,4 +1,4 @@
-no = 5
+no = 7
 for i in range(1, no+1):
     for sp in range(no - i, 0, -1):
         print("  " ,end="")
